@@ -87,7 +87,7 @@
   {
     "Id": 0,
     "InventoryId": 349171,
-    "Name": "string",
+    "Name": "Halle Manual",
     "FileName": "string",
     "IsPreview": true,
     "DataAsJson": "string"
@@ -95,7 +95,7 @@
   {
     "Id": 1,
     "InventoryId": 349171,
-    "Name": "string",
+    "Name": "Engg Guide",
     "FileName": "string",
     "IsPreview": true,
     "DataAsJson": "string"
