@@ -23,7 +23,7 @@
  ],
   "IBlogsByInvID": [
  {
-   "Id": 349171,
+   "id": 349171,
    "InventoryId": 349171,
    "ParentInventory": {
      "Id": 0,
