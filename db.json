@@ -82,6 +82,24 @@
    "User": "string",
    "Text": "string"
  }
-]
+],
+  "GetDocumentsByInventoryId": [
+  {
+    "Id": 0,
+    "InventoryId": 349171,
+    "Name": "string",
+    "FileName": "string",
+    "IsPreview": true,
+    "DataAsJson": "string"
+  },
+  {
+    "Id": 1,
+    "InventoryId": 349171,
+    "Name": "string",
+    "FileName": "string",
+    "IsPreview": true,
+    "DataAsJson": "string"
+  }
+  ]
   
 }
