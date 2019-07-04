@@ -100,6 +100,19 @@
     "IsPreview": true,
     "DataAsJson": "string"
   }
-  ]
-  
+  ],
+  "DataSources": [
+    {
+      "Id": 1,
+      "Name": "AML"
+    },
+    {
+      "Id": 2,
+      "Name": "HELIOS"
+    },
+    {
+      "Id": 3,
+      "Name": "SAP"
+    }
+ ]
 }
