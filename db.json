@@ -90,7 +90,8 @@
      "InventoryId": 349171,
      "Name": "Image",
      "FileName": "cockpit-1669254_960_720.jpg",
-     "IsPreview": true, 
+     "IsPreview": true,
+     "Extension": ".png",
      "DataAsJson": "sdfjsgjfshdf"   },
   {
     "Id": 1,
@@ -98,6 +99,7 @@
     "Name": "Engg Guide",
     "FileName": "string",
     "IsPreview": true,
+     "Extension": ".pdf",
     "DataAsJson": "string"
   }
   ],
