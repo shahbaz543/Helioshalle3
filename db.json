@@ -79,17 +79,7 @@
      "LastUpdated": "2019-06-21T13:46:49.561Z"
    },
    "Date": "2019-06-21T13:46:49.561Z",
-   "Text": "Moin hier meine Testergebnisse:
- 
-Equ editieren -> Refresh erst nach neuladen
- 
-Ladebalken geht manchmal nicht weg J
- 
-Blogeintrag geht, wird aber nicht sofort sichtbar, erst durch erneutes aufrufen
-Zeit und Datum sind leer
-Wenn Blogeintrag am unteren Ende der Liste, Text wird vertikal abgeschnitten
- 
-QR verknüpfen geht, SCANme auch.",
+   "Text": "",
    "User": "string"
  },
     {
@@ -150,17 +140,7 @@ QR verknüpfen geht, SCANme auch.",
    },
    "Date": "2019-06-21T13:46:49.561Z",
    "User": "Default",
-   "Text": "Moin hier meine Testergebnisse:
- 
-Equ editieren -> Refresh erst nach neuladen
- 
-Ladebalken geht manchmal nicht weg J
- 
-Blogeintrag geht, wird aber nicht sofort sichtbar, erst durch erneutes aufrufen
-Zeit und Datum sind leer
-Wenn Blogeintrag am unteren Ende der Liste, Text wird vertikal abgeschnitten
- 
-QR verknüpfen geht, SCANme auch."
+   "Text": ""
  },
     {
    "id": 349171,
@@ -220,7 +200,7 @@ QR verknüpfen geht, SCANme auch."
    },
    "Date": "2019-06-21T13:46:49.561Z",
    "User": "string",
-   "Text": "string"
+   "Text": "SyntaxError Unexpected token in JSON at position 1914SyntaxError Unexpected token in JSON at position 1914SyntaxError Unexpected token in JSON at position 1914"
  },
     {
    "id": 349171,
@@ -280,7 +260,7 @@ QR verknüpfen geht, SCANme auch."
    },
    "Date": "2019-06-21T13:46:49.561Z",
    "User": "string",
-   "Text": "string"
+   "Text": "SyntaxError Unexpected token in JSON at position 1914.SyntaxError Unexpected token in JSON at position 1914.SyntaxError Unexpected token in JSON at position 1914"
  }
 ],
   "GetDocumentsByInventoryId": [
