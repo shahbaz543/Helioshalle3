@@ -274,17 +274,7 @@
      "Extension": ".png",
      "DataAsJson": "sdfjsgjfshdf" ,
     "FileSize" : 5525
-   },
-  {
-    "Id": 134,
-    "InventoryId": 349171,
-    "Name": "Engg Guide",
-    "FileName": "string",
-    "IsPreview": true,
-     "Extension": ".pdf",
-    "DataAsJson": "string",
-    "FileSize" : 525
-  }
+   }
   ],
   "DataSources": [
     {
