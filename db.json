@@ -272,7 +272,9 @@
      "FileName": "cockpit-1669254_960_720.jpg",
      "IsPreview": true,
      "Extension": ".png",
-     "DataAsJson": "sdfjsgjfshdf"   },
+     "DataAsJson": "sdfjsgjfshdf" ,
+    "FileSize" : 5525
+   },
   {
     "Id": 134,
     "InventoryId": 349171,
@@ -280,7 +282,8 @@
     "FileName": "string",
     "IsPreview": true,
      "Extension": ".pdf",
-    "DataAsJson": "string"
+    "DataAsJson": "string",
+    "FileSize" : 525
   }
   ],
   "DataSources": [
